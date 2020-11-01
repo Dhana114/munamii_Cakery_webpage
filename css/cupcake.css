@@ -1,0 +1,54 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+   text-align: center; 
+   margin: 50px;
+    
+  
+}
+.price {
+  color: grey;
+  font-size: 22px;
+  
+  margin-left: 25px;
+  
+}
+
+
+
+div.cupbox {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+div.featuredbox {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+    
+   
+
+    
+}
+div.feature1 {
+
+    
+    padding-left: 200px;
+    
+    
+}
+
+div.feature3 {
+
+   
+    padding-left: 200px;
+    
+    
+}
+
+
+
+img {
+    width: 266px ;
+    height: 266px;
+}

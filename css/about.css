@@ -1,0 +1,49 @@
+.about_text{
+
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: bisque;
+    margin-bottom: 20px;
+
+}
+
+.about_heading{
+
+    
+    text-align: center;
+    font-size: 28px;
+
+}
+
+.love_image{
+
+    width: 700px;
+    height: 600px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom: 75px;
+   
+    margin-top: 50px;
+    
+
+}
+
+.about_para{
+    font-family: 'Dancing Script', cursive;
+    padding: 50px;
+    padding-top: 65px;
+}
+
+
+.about_full_div{
+
+display: grid;
+grid-template-columns: 1fr 1fr
+
+}
+
+.about_img{
+    margin-bottom: 20px;
+    background-color: bisque;
+
+}

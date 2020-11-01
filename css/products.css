@@ -1,0 +1,9 @@
+.cake_names{
+    padding:  20px;
+    
+}
+
+.products_pics{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
